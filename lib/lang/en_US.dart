@@ -1,0 +1,15 @@
+Map<String, String> enUS = {
+  'email': 'email',
+  'login': 'login',
+  'password': 'password',
+  'sendEmail': 'sendEmail',
+  'forgotPassword?': 'forgotPassword?',
+  'forgotPasswordText': 'forgotPasswordText',
+  'error': 'error',
+  'invalidEmailOrPassword': 'invalidEmailOrPassword',
+  'loginSuccess': 'loginSuccess',
+  'success': 'success',
+  'buttonQtd': 'buttonQtd',
+  'appName': 'appName',
+  'logout': 'logout',
+};

@@ -1,0 +1,15 @@
+Map<String, String> ptBR = {
+  'email': 'Email',
+  'login': 'Login',
+  'password': 'Senha',
+  'sendEmail': 'Enviar Email',
+  'forgotPassword?': 'Esqueceu a senha?',
+  'forgotPasswordText': 'Informe seu email para que possamos enviar sua senha!',
+  'error': 'Erro',
+  'invalidEmailOrPassword': 'Email ou Senha invalida',
+  'loginSuccess': 'Login Feito',
+  'success': 'Sucesso',
+  'buttonQtd': 'Quantidade de vezes que o botão foi apertado',
+  'appName': 'Meeting Rooms',
+  'logout': 'Sair',
+};
